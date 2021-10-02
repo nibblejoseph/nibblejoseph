@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nibblejoseph
+- 👀 I’m interested in code, technolagy
+- 🌱 I’m currently learning java,python
+- 💞️ I’m looking to collaborate on any codeing project
+- 📫 How to reach me e-mail (erqwertwertwertwertwert@gmail.com)
